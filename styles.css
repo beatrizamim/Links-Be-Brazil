@@ -8,13 +8,13 @@
 body{
   background: #133154;
   font-family: 'League Spartan', sans-serif;
-    
+  color: #f0ab00;   
 }
   
 
 .container {
   text-align: center;
-  width: px;
+  width: 300px;
   margin: 60px auto;
 }
 
